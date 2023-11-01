@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Freddy",
+        "location": "Freddy Fazbear's Pizzeria"
+    },
+    {
+        "id": 2,
+        "name": "Bonnie",
+        "location": "Freddy Fazbear's Pizzeria"
+    },
+    {
+        "id": 3,
+        "name": "Baby",
+        "location": "Circus Baby's Pizza World"
+    }
+
+]
