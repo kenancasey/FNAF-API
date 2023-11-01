@@ -6,7 +6,7 @@
 // Option 2 - Remote Server and Dynamic 
 async function loadData()
 {
-    const response = await fetch("/data.json");
+    const response = await fetch("https://fnaf-api.netlify.app/data.json");
     const characters = await response.json();
     
     console.log(characters);
